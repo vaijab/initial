@@ -15,3 +15,5 @@ google-droid-sans-fonts
 google-droid-sans-mono-fonts
 encfs
 python-pip
+python-jedi
+jq

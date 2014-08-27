@@ -18,3 +18,9 @@ python-pip
 python-jedi
 jq
 strace
+ruby
+rubygem-bundler
+rubygems-devel
+ruby-devel
+libxml2-devel
+libxslt-devel

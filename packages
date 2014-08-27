@@ -17,3 +17,4 @@ encfs
 python-pip
 python-jedi
 jq
+strace

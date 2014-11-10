@@ -5,6 +5,8 @@ dnf
 docker-io
 python-ipython-console
 golang
+golang-godoc
+ack
 mercurial
 clang
 llvm
@@ -14,6 +16,7 @@ gnome-tweak-tool
 google-droid-sans-fonts
 google-droid-sans-mono-fonts
 encfs
+python-devel
 python-pip
 python-jedi
 jq
@@ -24,3 +27,7 @@ rubygems-devel
 ruby-devel
 libxml2-devel
 libxslt-devel
+cmake
+gcc-c++
+gstreamer1-libav
+python3-pyflakes

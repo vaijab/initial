@@ -31,3 +31,4 @@ cmake
 gcc-c++
 gstreamer1-libav
 python3-pyflakes
+ctags

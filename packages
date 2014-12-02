@@ -19,6 +19,7 @@ encfs
 python-devel
 python-pip
 python-jedi
+python3-jedi
 jq
 strace
 ruby

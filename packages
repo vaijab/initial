@@ -37,6 +37,7 @@ libxml2-devel
 libxslt-devel
 cmake
 gcc-c++
+libtool
 gstreamer1-libav
 ctags
 http://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-21.noarch.rpm
